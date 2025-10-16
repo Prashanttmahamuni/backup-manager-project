@@ -1,0 +1,14 @@
+{
+  "project_name": "backup-manager-project",
+  "project_dir": "C:\\backup-manager-project",
+  "backup_root": "C:\\backups",
+  "gdrive_remote": "gdrive",
+  "gdrive_folder": "BackupManagerUploads",
+  "retention": {
+    "daily": 7,
+    "weekly": 4,
+    "monthly": 3
+  },
+  "webhook_url": "https://webhook.site/d3bb7b45-3cfb-465b-9686-7fec9e8c36e4",
+  "notify": true
+}
