@@ -8,7 +8,7 @@ This project provides a fully automated shell/Python script to manage backups fo
 
 ## ⚙️ Features
 
-- Backup project directory into timestamped `.zip` files
+- Backup project directory into timestamped `.zip` files    
 - Store backups in `~/backups/ProjectName/YYYY/MM/DD/`
 - Upload backups to Google Drive using `rclone`
 - Retain last X daily, weekly (Sunday), and monthly backups
@@ -112,6 +112,7 @@ Add:
 
 ## 🧠 Contribution & Support
 - Feel free to fork, improve, and submit pull requests. For issues or feature requests, open a GitHub issue.
+
 
 
 
