@@ -6,7 +6,7 @@ This project provides a fully automated shell/Python script to manage backups fo
           
 ---      
   
-## ⚙️ Features  
+## ⚙️ Features    
 
 - Backup project directory into timestamped `.zip` files    
 - Store backups in `~/backups/ProjectName/YYYY/MM/DD/`
@@ -112,6 +112,7 @@ Add:
 
 ## 🧠 Contribution & Support
 - Feel free to fork, improve, and submit pull requests. For issues or feature requests, open a GitHub issue.
+
 
 
 
