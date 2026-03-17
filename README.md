@@ -55,7 +55,7 @@ python3 backup.py --project-dir /path/to/project \
                   --daily 7 --weekly 4 --monthly 3 \
                   --notify-url https://webhook.site/your-unique-url
 ```
-
+        
 ### Optional Flags
 - --no-notify : Disable webhook notification
 - --config config.json : Load settings from config file
