@@ -5,8 +5,8 @@
 This project provides a fully automated shell/Python script to manage backups for a GitHub-hosted project. It creates timestamped `.zip` archives of your codebase, organizes them into a structured directory, integrates with Google Drive using `rclone`, implements a rotational backup strategy (daily, weekly, monthly), and sends a webhook notification upon successful backup.
                                                               
 --- 
-                                            
-## ⚙️ Features      
+                                                            
+## ⚙️ Features                          
 
 - Backup project directory into timestamped `.zip` files    
 - Store backups in `~/backups/ProjectName/YYYY/MM/DD/`
